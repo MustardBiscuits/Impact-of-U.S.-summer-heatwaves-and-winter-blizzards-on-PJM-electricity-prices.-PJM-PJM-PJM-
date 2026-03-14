@@ -47,7 +47,7 @@ This project contributes to the literature on electricity market behavior under 
 - providing an empirical basis for discussions of resilience, planning, and market response under increasingly frequent extreme weather events.
 
 ## Repository Contents
-A typical repository structure for this project may include:
+A typical repository structure for this project include:
 - `data/` for cleaned and merged datasets
 - `notebooks/` or `scripts/` for preprocessing and econometric analysis
 - `figures/` for event-study plots, time-series charts, and diagnostics
