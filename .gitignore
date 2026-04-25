@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+
+# Model / temporary outputs
+*.pkl
+*.joblib
+
+# Large intermediate files, uncomment if needed
+# *.parquet
