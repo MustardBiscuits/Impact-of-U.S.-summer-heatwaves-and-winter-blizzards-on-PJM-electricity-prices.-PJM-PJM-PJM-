@@ -22,8 +22,7 @@ The model comparison includes:
 - `dmdc`: Dynamic Mode Decomposition with control variables.
 - `dmdc_residual_24h`: previous-day seasonal naive forecast plus a DMDc residual
   correction.
-- `SARIMAX`: optional baseline. It is included in the code, but not run by
-  default because rolling SARIMAX is much slower.
+- `SARIMAX`: optional baseline. 
 
 ## Project Structure
 
